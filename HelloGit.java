@@ -3,7 +3,8 @@ public class HelloGit{
 		System.out.println("hello git!");
 		System.out.println("finally got this to work");
 		String x = "this is me pulling";
-		x = "making anotehr change";
+		x = "making anotehr change";	
+		System.out.println(x);	
 	}
 } 
 
